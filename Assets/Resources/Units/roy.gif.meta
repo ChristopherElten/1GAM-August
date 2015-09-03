@@ -1,0 +1,649 @@
+fileFormatVersion: 2
+guid: f9e002e7061924e518815b7a4ebfc4ca
+timeCreated: 1440471897
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: roy_lord_sword_0
+    21300002: roy_lord_sword_1
+    21300004: roy_lord_sword_2
+    21300006: roy_lord_sword_3
+    21300008: roy_lord_sword_4
+    21300010: roy_lord_sword_5
+    21300012: roy_lord_sword_6
+    21300014: roy_lord_sword_7
+    21300016: roy_lord_sword_8
+    21300018: roy_lord_sword_9
+    21300020: roy_lord_sword_10
+    21300022: roy_lord_sword_11
+    21300024: roy_lord_sword_12
+    21300026: roy_lord_sword_13
+    21300028: roy_lord_sword_14
+    21300030: roy_lord_sword_15
+    21300032: roy_lord_sword_16
+    21300034: roy_lord_sword_17
+    21300036: roy_lord_sword_18
+    21300038: roy_lord_sword_19
+    21300040: roy_lord_sword_20
+    21300042: roy_lord_sword_21
+    21300044: roy_lord_sword_22
+    21300046: roy_lord_sword_23
+    21300048: roy_lord_sword_24
+    21300050: roy_lord_sword_25
+    21300052: roy_lord_sword_26
+    21300054: roy_lord_sword_27
+    21300056: roy_lord_sword_28
+    21300058: roy_lord_sword_29
+    21300060: roy_lord_sword_30
+    21300062: roy_lord_sword_31
+    21300064: roy_lord_sword_32
+    21300066: roy_lord_sword_33
+    21300068: roy_lord_sword_34
+    21300070: roy_lord_sword_35
+    21300072: roy_lord_sword_36
+    21300074: roy_lord_sword_37
+    21300076: roy_lord_sword_38
+    21300078: roy_lord_sword_39
+    21300080: roy_lord_sword_40
+    21300082: roy_lord_sword_41
+    21300084: roy_lord_sword_42
+    21300086: roy_lord_sword_43
+    21300088: roy_lord_sword_44
+    21300090: roy_lord_sword_45
+    21300092: roy_lord_sword_46
+    21300094: roy_lord_sword_47
+    21300096: roy_lord_sword_48
+    21300098: roy_lord_sword_49
+    21300100: roy_lord_sword_50
+    21300102: roy_lord_sword_51
+    21300104: roy_lord_sword_52
+    21300106: roy_lord_sword_53
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 8
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: roy_lord_sword_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 461
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 461
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 461
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 461
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 461
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 460
+        width: 77
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 410
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 410
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 410
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 410
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 358
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 358
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 358
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 358
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 358
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 358
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 306
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 306
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 306
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 306
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_20
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 305
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 302
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 251
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 246
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 246
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 246
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 246
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_27
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 246
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 246
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 246
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 195
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 195
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 195
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_33
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 195
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 195
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 123
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_36
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 123
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 124
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_38
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 124
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_39
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 124
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 124
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 124
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_42
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 124
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 124
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 55
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 55
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 55
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_47
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 55
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_48
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 55
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 11
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_52
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 10
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roy_lord_sword_53
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 10
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

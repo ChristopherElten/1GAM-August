@@ -1,0 +1,3 @@
+#git ignore line endings
+*	core.autocrlf=false
+*	core.autolf=false
